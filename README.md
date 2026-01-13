@@ -1,28 +1,40 @@
-# AWS Glue DataBrew & RDS MySQL 📊
+# Data Preparation with AWS Glue DataBrew & RDS 🧹
 
-A guide on **Data Preparation** using **Amazon RDS for MySQL** as a data source and **AWS Glue DataBrew** for cleaning and normalizing data.
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![DataBrew](https://img.shields.io/badge/Glue_DataBrew-Success?style=for-the-badge&color=8C4FFF)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 📖 Overview
 
-## 📄 Contents
+This repository acts as a comprehensive knowledge base for connecting **Amazon RDS for MySQL** with **AWS Glue DataBrew** for efficient data preparation and cleaning.
 
-- **Data preparation using an Amazon RDS for MySQL database with AWS Glue DataBrew.pdf**: Comprehensive visual guide.
+The included documentation (`Data preparation using an Amazon RDS for MySQL database with AWS Glue DataBrew.pdf`) details:
+-   **Architecture**: How RDS and Glue DataBrew interact.
+-   **Setup**: Configuring security groups, IAM roles, and connections.
+-   **Transformation**: Using DataBrew to clean and normalize data without writing code.
 
-## ✨ Overview
+## 📂 Contents
 
-- **Connect**: Establish connection between RDS and Glue service.
-- **Prepare**: Use DataBrew to clean and transform raw data.
-- **Analyze**: Visualize data lineage and quality.
+-   **`Data preparation using an Amazon RDS for MySQL database with AWS Glue DataBrew.pdf`**: The detailed step-by-step guide.
 
 ## 🚀 Getting Started
 
-1.  **Clone the repository**:
+To access the documentation:
+1.  Clone this repository:
     ```bash
     git clone https://github.com/officialsimranagarwal/Data-preparation-using-an-Amazon-RDS-for-MySQL-database-with-AWS-Glue-DataBrew.git
     ```
-2.  **Open the PDF**: Follow the screenshots and steps provided in the document.
+2.  Open the PDF to follow the tutorial.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## 👤 Author
+
+**Simran Agarwal**
+-   [Profile](https://github.com/officialsimranagarwal)
+-   [LinkedIn](https://linkedin.com/in/simran-agarwal-54751b191)
+
+---
+*Generated with ❤️ by Simran Agarwal*
